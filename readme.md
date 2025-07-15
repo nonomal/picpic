@@ -1,6 +1,6 @@
 <p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="200" src="https://matrixage.github.io/img/projects/picpic/logo_picpic_black.png" alt="picpic logo"></a></p>
 
-# <p align="center"> picpic </p>
+# <p align="center"> Picpic </p>
 
 _<p align="center">An awesome image host service driven by github pages and github actions.</p>_
 
